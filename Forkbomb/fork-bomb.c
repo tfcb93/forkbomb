@@ -1,7 +1,8 @@
-/*This code was created in 2014
-with the propose to learn about threads in a fun way
-This code just run in Unix-based systems
+/*Code created in 2014
+The purpose of this code was to learn more about threads and forks in a fun way
+Remember this code only run in Unix-based systems
 created by Thiago Borges
+Pls do not use this for malicious stuff :c
 */
 
 #include <stdio.h>
